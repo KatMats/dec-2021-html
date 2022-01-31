@@ -1,0 +1,35 @@
+.top{
+    text-align: center;
+    background: brown;
+    height: 50px;
+    font-size: 50px;
+    color: aliceblue;
+}
+.text{
+    background: #b6b6be;
+    font-size: 20px;
+    height: 100px;
+    color: black;
+    margin-top: 30px;
+    box-sizing: border-box;
+    padding: 30px;
+}
+.text_2{
+    background: dodgerblue;
+    font-size: 20px;
+    height: 100px;
+    color: black;
+    box-sizing: border-box;
+    padding-top: 30px;
+}
+.greensq{
+    width: 250px;
+    height: 250px;
+    background: lightgreen;
+}
+.purplesq{
+    width: 250px;
+    height: 250px;
+    background: darkorchid;
+    border-radius: 20px/20px;
+}
