@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    background: black;
+}
+
+.orange {
+    width: 400px;
+    height: 100px;
+    color: orange;
+    border: 6px solid orange;
+    border-radius: 80px/80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+.aqua{
+    width: 400px;
+    height: 100px;
+    color: aqua;
+    border: 6px solid aqua;
+    border-radius: 80px/80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.purple{
+    width: 400px;
+    height: 100px;
+    color: #fd54a5;
+    border: 6px solid #fd54a5;
+    border-radius: 80px/80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.red{
+    width: 400px;
+    height: 100px;
+    color: red;
+    border: 6px solid red;
+    border-radius: 80px/80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
